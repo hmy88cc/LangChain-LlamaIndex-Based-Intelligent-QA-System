@@ -1,0 +1,2 @@
+# LangChain-LlamaIndex-Based-Intelligent-QA-System
+An enterprise-grade intelligent Q&amp;A system tailored for commercial insurance scenarios, built on the deep integration of LangChain + LlamaIndex. This solution delivers a full-stack insurance service workflow encompassing hybrid retrieval, multi-Agent collaboration, intelligent routing, product comparison, claim recommendation, and risk assessment.
