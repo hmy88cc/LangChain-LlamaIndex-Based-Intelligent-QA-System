@@ -1,0 +1,16 @@
+# 核心框架
+langchain_community==0.4.1
+langchain_core==1.2.8
+langchain_text_splitters==1.1.0
+llama_index==0.14.13
+
+# 检索增强
+llama_index_retrievers_bm25==0.5.0
+rank_bm25==0.2.2
+
+# 工具库
+json5==0.9.14
+qwen_agent==0.0.25
+
+# 环境配置
+python-dotenv>=1.0.0
